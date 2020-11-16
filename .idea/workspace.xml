@@ -24,8 +24,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.lists_and_dicts">
+  <component name="RunManager" selected="Python.12_11_2020">
+    <configuration name="12_11_2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_11_2020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="i" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12_11_2020" />
         <item itemvalue="Python.lists_and_dicts" />
         <item itemvalue="Python.i" />
       </list>
@@ -91,22 +114,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="356" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604491101127" />
-    <state width="2539" height="441" key="GridCell.Tab.0.bottom" timestamp="1604563543973">
+    <state width="1257" height="436" key="GridCell.Tab.0.bottom" timestamp="1605168800935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="441" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604563543973" />
-    <state width="2539" height="441" key="GridCell.Tab.0.center" timestamp="1604563543973">
+    <state width="1257" height="436" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605168800935" />
+    <state width="1257" height="436" key="GridCell.Tab.0.center" timestamp="1605168800935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="441" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604563543973" />
-    <state width="2539" height="441" key="GridCell.Tab.0.left" timestamp="1604563543973">
+    <state width="1257" height="436" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605168800935" />
+    <state width="1257" height="436" key="GridCell.Tab.0.left" timestamp="1605168800935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="441" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604563543973" />
-    <state width="2539" height="441" key="GridCell.Tab.0.right" timestamp="1604563543973">
+    <state width="1257" height="436" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605168800935" />
+    <state width="1257" height="436" key="GridCell.Tab.0.right" timestamp="1605168800935">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="441" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604563543973" />
+    <state width="1257" height="436" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605168800935" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1604562846739">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

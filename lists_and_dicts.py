@@ -20,36 +20,22 @@
 # print()
 # print(f'Остаток от деления суммы элементов с четным индексом на '
 #       f'сумму эелементов с нечетным индексом - {sum_odd % sum_even}')
+# integer_in_binary = '0b' + input('Введите целое число в двоичное системе - ')
+# try:
+#     converted_integer = int(integer_in_binary, 2)
+#     print(f'Число {integer_in_binary} в десятичной системе - {converted_integer}')
+# except Exception as error:
+#     print(f'Число в двоичной системе не целое!\n'
+#           f'{error}')
 
-list_1 = ['c', 'о', 'с', 'и']
-list_2 = ['ж', 'о', 'п', 'у']
-first_counter = 0
-q_counter = 0
-second_counter = 0
-new_list = list()
-for i in list_1:
-    if first_counter % 2 == 0:
-        new_list.append(list_1[first_counter])
-        print(new_list, i, first_counter)
-        continue
-    else:
-        print(new_list, i, first_counter)
-        continue
-# for j in list_2:
-#     if q_counter % 2 != 0:
-#         if first_counter % 2 != 0:
-#             new_list.append(list_1[first_counter])
-#             first_counter += 1
-#             q_counter += 1
-#         else:
-#             q_counter += 1
-# print(q_counter)
-#
-#     if q_counter % 2 == 0:
-#         if second_counter % 2 == 0:
-#             new_list.append(list_2[second_counter])
-#             q_counter += 1
-#             second_counter += 1
-#         else:
-#             q_counter += 1
-# print(new_list)
+first_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+second_list = [1, 3, 6, 7, 8, 9, 10, 11, 12, 13, 19]
+for i in range(len(first_list)):
+    for j in range(len(second_list)):
+        if first_list[i] == second_list[j]:
+            first_list[i] = 0
+        else:
+            continue
+print('Массив с измененными данными:')
+for answer in first_list:
+    print(answer, end=', ')
