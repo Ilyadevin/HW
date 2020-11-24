@@ -1,0 +1,12 @@
+F:\HW\Teori\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\HW\Teori\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\HW\Teori\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\HW\Teori\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\HW\Teori\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,12 @@
+F:\HW\Teori\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+F:\HW\Teori\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+F:\HW\Teori\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+F:\HW\Teori\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+F:\HW\Teori\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
