@@ -11,7 +11,6 @@
         ' Query execution.
         For Each number In evensQuery
             MsgBox(number & " ")
-            Console.Write(number & " ")
         Next
     End Sub
 
