@@ -50,7 +50,7 @@
       <recent name="F:\HW\Pytnon_unversity\other_shit" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.help_file">
     <configuration name="def_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytnon_unversity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,8 +72,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="help_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytnon_unversity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/other_shit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other_shit/help_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.help_file" />
         <item itemvalue="Python.def_lambda" />
       </list>
     </recent_temporary>
@@ -99,27 +121,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="736" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605764003342">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605764003342" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1605764248490">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606324125169">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605764248490" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1605764248490">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606324125169" />
+    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606324125169">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605764248490" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1605764248490">
+    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606324125169" />
+    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606324125169">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605764248490" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1605764248490">
+    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606324125169" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606324125169">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605764248490" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606324125169" />
   </component>
 </project>
