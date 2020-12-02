@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a23a0c-7e95-47e6-b259-f89595a8d160" name="Default Changelist" comment="" />
+    <list default="true" id="47bf3df2-da9e-442d-89b2-54a8e613f9cd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1l5w8bXES4QIiQzdrB1rZIVxKhP" />
+  <component name="ProjectId" id="1l69NNl1zSacsCRuUXw6aHFMgSf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,11 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="recursive_def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="recursive_def" />
+    <configuration name="middle_level" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="functions_middle_level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -58,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursive_def.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middle_level.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,18 +68,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recursive_def" />
+        <item itemvalue="Python.middle_level" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9a23a0c-7e95-47e6-b259-f89595a8d160" name="Default Changelist" comment="" />
-      <created>1606900103568</created>
+      <changelist id="47bf3df2-da9e-442d-89b2-54a8e613f9cd" name="Default Changelist" comment="" />
+      <created>1606906633548</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606900103568</updated>
+      <updated>1606906633548</updated>
     </task>
     <servers />
   </component>
@@ -94,28 +93,23 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="361" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606900586921">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606910387906">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="95" y="361" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606900586921" />
-    <state width="1257" height="397" key="GridCell.Tab.0.bottom" timestamp="1606906598021">
+    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606910387906" />
+    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606910387906">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="397" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606906598021" />
-    <state width="1257" height="397" key="GridCell.Tab.0.center" timestamp="1606906598021">
+    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606910387906" />
+    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606910387906">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="397" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606906598021" />
-    <state width="1257" height="397" key="GridCell.Tab.0.left" timestamp="1606906598021">
+    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606910387906" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606910387906">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="397" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606906598021" />
-    <state width="1257" height="397" key="GridCell.Tab.0.right" timestamp="1606906598021">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1257" height="397" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606906598021" />
+    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606910387906" />
   </component>
 </project>
