@@ -44,9 +44,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\HW\Pytnon_unversity" />
       <recent name="F:\HW\Pytnon_unversity\matrix" />
       <recent name="F:\HW\Pytnon_unversity\other_shit" />
     </key>
@@ -65,6 +67,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def_and_lambda/def_lambda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dicts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytnon_unversity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/dicts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files_and_other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytnon_unversity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files_and_other.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,6 +141,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.help_file" />
+        <item itemvalue="Python.dicts" />
+        <item itemvalue="Python.files_and_other" />
         <item itemvalue="Python.def_lambda" />
       </list>
     </recent_temporary>
@@ -129,21 +175,29 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="736" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605764003342" />
-    <state width="1258" height="398" key="GridCell.Tab.0.bottom" timestamp="1606920638275">
+    <state x="1700" y="513" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608392072494">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606920638275" />
-    <state width="1258" height="398" key="GridCell.Tab.0.center" timestamp="1606920638275">
+    <state x="1700" y="513" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1608392072494" />
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom" timestamp="1608556480773">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606920638275" />
-    <state width="1258" height="398" key="GridCell.Tab.0.left" timestamp="1606920638275">
+    <state width="2539" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1608556480773" />
+    <state width="2539" height="398" key="GridCell.Tab.0.center" timestamp="1608556480773">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606920638275" />
-    <state width="1258" height="398" key="GridCell.Tab.0.right" timestamp="1606920638275">
+    <state width="2539" height="398" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1608556480773" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left" timestamp="1608556480773">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606920638275" />
+    <state width="2539" height="398" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1608556480773" />
+    <state width="2539" height="398" key="GridCell.Tab.0.right" timestamp="1608556480773">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="398" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1608556480773" />
+    <state x="784" y="347" key="SettingsEditor" timestamp="1608555849606">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="784" y="347" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1608555849606" />
   </component>
 </project>
