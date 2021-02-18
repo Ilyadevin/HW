@@ -1,18 +1,21 @@
 ﻿using System;
 
-
-    class Program
+class A { }
+class B { }
+class C { }
+class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("Параметр а - ");
-        int a = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Параметр b - ");
-        int b = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Параметр c - ");
-        int c = Convert.ToInt32(Console.ReadLine());
-        double result = Math.Sqrt((a * a) + (b * b) - (2 * a * b*Math.Cos(c)));
+        Console.WriteLine("Параметр а:");
+        int A = Convert.ToInt32(Console.ReadLine()); 
+        Console.WriteLine("Параметр b:");
+        int B = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Параметр c:");
+        int C = Convert.ToInt32(Console.ReadLine());
+        double result = Math.Sqrt(Math.Pow(A,2) + Math.Pow(B,2) - (2 * A * B*Math.Cos(C)));
         Console.WriteLine(result);
-    } 
+    }
 }
+
 

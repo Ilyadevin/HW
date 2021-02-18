@@ -10,3 +10,4 @@ F:\HW\С_#\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
 F:\HW\С_#\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
 F:\HW\С_#\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
 F:\HW\С_#\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
+F:\HW\С_#\Math\Math\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
